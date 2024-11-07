@@ -15,9 +15,3 @@ This project is a **digital poster** designed using **Adobe Photoshop** as part 
 - Adobe Photoshop
 - Basic understanding of digital design concepts
 
-## Installation
-
-1. **Clone the Repository**  
-   Clone this project repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/savetrees-poster.git
